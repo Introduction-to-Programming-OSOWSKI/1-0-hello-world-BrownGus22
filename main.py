@@ -1,3 +1,6 @@
 ##WRITE YOUR CODE IN THIS FILE
 def helloWorld(x):
-    return "Hello World!"
+    return print(x)
+
+x = "Hello World!"
+helloWorld(x)
